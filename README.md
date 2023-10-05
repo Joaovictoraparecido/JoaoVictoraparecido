@@ -10,6 +10,6 @@ Em busca do autodesenvolvimento estou disposto a investir tempo e se esforçar p
 # 📊 GitHub Stats:
 
 
-[![](https://visitcount.itsvg.in/api?id=JOÃO VICTOR APARECIDO&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 
