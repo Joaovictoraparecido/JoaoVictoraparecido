@@ -8,7 +8,7 @@ Em busca do autodesenvolvimento estou disposto a investir tempo e se esforçar p
 
 
 # 📊 GitHub Stats:
-![Joaovictoraparecido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovictoraparecido&theme=chartreuse-dark&show_icons=true)
+![Joaovictoraparecido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovictoraparecido&theme=chartreuse-shadow_red&show_icons=true)
 
 
 # 💻 Tech Stack:
