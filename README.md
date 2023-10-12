@@ -10,7 +10,7 @@ Em busca do autodesenvolvimento estou disposto a investir tempo e se esforçar p
 # 📊 GitHub Stats:
 ![Joaovictoraparecido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovictoraparecido&theme=shadow_red&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true=C#,HTML)
+
 
 
 
